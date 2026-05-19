@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I´m Natalia 👋
 
 <!--
 **Naty-Al/Naty-AL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 Systems Engineering Student  
+💻 Interested in Web Development and Databases  
+🌱 Currently learning Python and SQL  
+📍 Costa Rica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+- Python
+- SQL
+- HTML
+- CSS
+- JavaScript
+
+## Goals
+- Improve my programming skills
+- Build real projects
+- Grow as a software developeret you started:
