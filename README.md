@@ -1,4 +1,4 @@
-## Hi, I´m Natalia 👋
+## Hi, I´m Natalia Acevedo Lezama👋
 
 🎓 Systems Engineering Student  
 💻 Interested in Web Development and Databases  
