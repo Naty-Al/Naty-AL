@@ -1,8 +1,5 @@
 ## Hi, I´m Natalia 👋
 
-<!--
-**Naty-Al/Naty-AL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🎓 Systems Engineering Student  
 💻 Interested in Web Development and Databases  
 🌱 Currently learning Python and SQL  
@@ -18,4 +15,8 @@
 ## Goals
 - Improve my programming skills
 - Build real projects
-- Grow as a software developeret you started:
+
+## 📫 Contact
+
+LinkedIn: https://linkedin.com/in/www.linkedin.com/in/natalia-acevedolezama-b976a232b
+
